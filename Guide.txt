@@ -1,0 +1,10 @@
+python -m venv myenv
+myenv\Scripts\activate
+
+pip install streamlit opencv-python keras tensorflow numpy
+
+
+
+streamlit run plant_disease_detection.py
+
+

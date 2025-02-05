@@ -1,2 +1,2 @@
-# AI-Plant-disease-Detection
-Our AI Plant Disease Detection Project leverages the power of Artificial Intelligence (AI) to analyze images of plant leaves, identify diseases, and suggest solutions—all within seconds! 🎯 The system provides farmers and agricultural experts with a fast, reliable, and cost-effective solution for identifying plant diseases.
+# AI-Plant-Disease-Detection-main
+ The AI Plant Disease Detection project uses deep learning to identify diseases in plant leaves through image analysis. By processing uploaded images, the model predicts the disease type with high accuracy and provides a confidence score. This tool aims to assist farmers in diagnosing plant diseases quickly and efficiently, reducing dependency on manual inspection.
